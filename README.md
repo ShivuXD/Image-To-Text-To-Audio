@@ -37,11 +37,11 @@ Place the image file in the script’s directory for processing.
    python image_to_audio.py
    ```
 
-5. **Listen to the Audio.**
+5. **Listen to the Audio. 👂**
 
    The extracted text in the end will be saved as an audio file named --> `output_audio.mp3`.
 
-   ## Script Explanation
+   ## Script Explanation 📝
 
 ### Text Extraction.
 
