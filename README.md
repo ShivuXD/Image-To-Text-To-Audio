@@ -1,5 +1,5 @@
 # Image to Text to Audio
-### 🖼️ -> 📄 -> 🔊
+## 🖼️ -> 📄 -> 🔊
 
 This Python script allows the user to convert a text file from an image to an audio file. The script uses the `pytesseract` library to extract the text from the image and, the `gtts` library to convert the extracted text to speech.
 
